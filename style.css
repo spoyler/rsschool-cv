@@ -1,0 +1,14 @@
+body {
+  max-width: 1024px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  color: #222222;
+  background-color: #f2f4f6;
+  background-position: top center;
+}
+
+footer {
+  padding-top: 12px;
+}
+
