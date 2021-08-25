@@ -1,4 +1,5 @@
 [submodule "singolo"]
 	path = singolo
 	url = git@github.com:spoyler/singolo.git
+	branche = master
 	update = merge
